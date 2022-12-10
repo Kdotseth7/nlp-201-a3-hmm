@@ -1,2 +1,2 @@
-# nlp-201-a3-hmm
-Hidden Markov Model
+# Instructions to run code on local
+Run kuseth_2005986.ipynb file
